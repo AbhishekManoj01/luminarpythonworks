@@ -1,0 +1,3 @@
+Navya,Python,35000
+Ajay,Python,35000
+Rahul,Data Science,61000

@@ -1,0 +1,12 @@
+print("message") #print message in console
+
+type(object) #return data type pf object
+
+input("message") #read values from console return string value
+
+round(object,precision)
+range(start,end,step)
+
+len() length of string
+min() min of numbers
+max() max of numbers

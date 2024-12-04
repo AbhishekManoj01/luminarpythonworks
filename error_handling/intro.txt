@@ -1,0 +1,10 @@
+# error_handling
+#     try
+#     except
+#     finally
+#     raise
+
+try:
+    doubtful code
+except:
+     error error_handling code

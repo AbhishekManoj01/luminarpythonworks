@@ -1,0 +1,10 @@
+users=["rahul","rohit","kohli","rishab","sanju","pamndya","siraj"]
+rahul_followers=["rohit","kohli","risdhab","rahul"]
+sanju_followers=["sanju","rohit","kohli"]
+user=set(users)
+rahulfollow=set(rahul_followers)
+set3=user.difference(rahulfollow)
+print(set3)
+sanju_follo=set(sanju_followers)
+set4=rahulfollow.intersection(sanju_follo)
+print(set4)

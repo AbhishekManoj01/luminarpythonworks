@@ -1,0 +1,8 @@
+from re import findall
+f=open("C:\\Users\\ASUS\\Desktop\\Pythonworks\\regular_expression\\RE_filework\\sample1.txt")
+content=f.read()
+pattern="https?://[\w\S./]+"
+urls=findall(pattern,content)
+for url in urls:
+  print(url)
+  

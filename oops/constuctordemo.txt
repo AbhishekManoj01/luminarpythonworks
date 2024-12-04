@@ -1,0 +1,5 @@
+constructor syntax:
+
+in java :-same as class NameError
+in javascript:-constuctor itself
+in python:-__init__

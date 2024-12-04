@@ -1,0 +1,9 @@
+set1={10,20,30,40,50,60}
+set2={10,20,40,50}
+intersection3=set1.intersection(set2)#intersection
+print("intersection:",intersection3)
+union3=set1.union(set2)#union
+print("union:",union3)
+#difference
+deffirence3=set1.difference(set2)
+print("difference",deffirence3)

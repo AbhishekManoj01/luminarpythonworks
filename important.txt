@@ -1,0 +1,5 @@
+looping
+
+gcd 
+lcm
+armstrong number

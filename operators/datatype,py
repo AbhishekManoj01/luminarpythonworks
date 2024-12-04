@@ -1,0 +1,25 @@
+
+# type(object)
+# number=1000
+# print(type(number))
+# str="framework"
+# print(type(str))
+# multiline_text="""this
+# is
+# a 
+# multi
+# line 
+# text"""
+# print(type(multiline_text))
+# rating=4.9
+# print(type(rating))
+# is_open=true
+# print(type(is_open))
+
+
+num1=10
+num2=3
+division_result=num1/num2
+print(division_result)
+floor_division=num1//num2
+print(floor_division)
